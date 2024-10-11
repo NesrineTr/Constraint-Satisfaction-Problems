@@ -1,0 +1,1 @@
+% Encode here the map of Australia to paint it with the least number of colors
